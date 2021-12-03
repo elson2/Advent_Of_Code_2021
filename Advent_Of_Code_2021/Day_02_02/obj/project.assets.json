@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felli\\Desktop\\Hobbies\\.Net\\Advent_of_Code\\Advent_Of_Code_2021\\Advent_Of_Code_2021\\Day_01\\Day_01_01.csproj",
-      "projectName": "Day_01_01",
-      "projectPath": "C:\\Users\\felli\\Desktop\\Hobbies\\.Net\\Advent_of_Code\\Advent_Of_Code_2021\\Advent_Of_Code_2021\\Day_01\\Day_01_01.csproj",
+      "projectUniqueName": "C:\\Users\\felli\\Desktop\\Hobbies\\.Net\\Advent_of_Code\\Advent_Of_Code_2021\\Advent_Of_Code_2021\\Day_02_02\\Day_02_02.csproj",
+      "projectName": "Day_02_02",
+      "projectPath": "C:\\Users\\felli\\Desktop\\Hobbies\\.Net\\Advent_of_Code\\Advent_Of_Code_2021\\Advent_Of_Code_2021\\Day_02_02\\Day_02_02.csproj",
       "packagesPath": "C:\\Users\\felli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felli\\Desktop\\Hobbies\\.Net\\Advent_of_Code\\Advent_Of_Code_2021\\Advent_Of_Code_2021\\Day_01\\obj\\",
+      "outputPath": "C:\\Users\\felli\\Desktop\\Hobbies\\.Net\\Advent_of_Code\\Advent_Of_Code_2021\\Advent_Of_Code_2021\\Day_02_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felli\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,16 @@
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\bin\Debug\net5.0\Day_01_02.exe
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\bin\Debug\net5.0\Day_01_02.deps.json
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\bin\Debug\net5.0\Day_01_02.runtimeconfig.json
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\bin\Debug\net5.0\Day_01_02.runtimeconfig.dev.json
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\bin\Debug\net5.0\Day_01_02.dll
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\bin\Debug\net5.0\ref\Day_01_02.dll
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\bin\Debug\net5.0\Day_01_02.pdb
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\obj\Debug\net5.0\Day_01_02.csproj.AssemblyReference.cache
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\obj\Debug\net5.0\Day_01_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\obj\Debug\net5.0\Day_01_02.AssemblyInfoInputs.cache
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\obj\Debug\net5.0\Day_01_02.AssemblyInfo.cs
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\obj\Debug\net5.0\Day_01_02.csproj.CoreCompileInputs.cache
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\obj\Debug\net5.0\Day_01_02.dll
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\obj\Debug\net5.0\ref\Day_01_02.dll
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\obj\Debug\net5.0\Day_01_02.pdb
+C:\Users\felli\Desktop\Hobbies\.Net\Advent_of_Code\Advent_Of_Code_2021\Advent_Of_Code_2021\Day_01_02\obj\Debug\net5.0\Day_01_02.genruntimeconfig.cache
